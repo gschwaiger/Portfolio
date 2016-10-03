@@ -1,2 +1,3 @@
 # Portfolio
-Personal portfolio website 
+Personal - My personal portfolio website.
+
